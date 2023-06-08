@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/qmVCQM5/Frame-1.png" alt="dotnet" width="1000" height="600"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
 <h1 align="center">Hi 👋, I'm Abelardo Cruz Leos</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umblum12&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umblum12&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umblum12&show_icons=true&theme=radical)
 
 <h3 align="left">Languages and Tools:</h3>
