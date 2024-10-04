@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/C9xFYP7/Banner-github-ACL.webp" alt="dotnet" width="1000" height="600"/>
+<img src="https://i.ibb.co/wy8Cypb/Banner-github-ACL.webp" alt="dotnet" width="1000" height="600"/>
 
 <h1 align="center">Hi 👋, I'm Abelardo Cruz Leos</h1>
 <h3 align="center">Software Developer and AI Enthusiast</h3>
