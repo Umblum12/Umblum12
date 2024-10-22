@@ -34,7 +34,7 @@
 ---
 
 ### 📬 Get in Touch
-- **Portfolio**: [portfolio-web-abelardo-cruz-leos.vercel.app](https://portfolio-web-abelardo-cruz-leos.vercel.app/)
+- **Portfolio**: [abelardocruzleos.dev](https://abelardocruzleos.dev/)
 - **Email**: [abelardo_cruzleos@hotmail.com](mailto:abelardo_cruzleos@hotmail.com)
 - **LinkedIn**: [Abelardo Cruz Leos](https://www.linkedin.com/in/abelardo-cruz-leos/)
 
