@@ -4,7 +4,7 @@
 <h3 align="center">Software Developer and AI Enthusiast</h3>
 
 <p align="center">
-  <a href="https://portfolio-web-abelardo-cruz-leos.vercel.app/" target="_blank">
+  <a href="https://abelardocruzleos.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Website-Visit-34A853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
   <a href="mailto:abelardo_cruzleos@hotmail.com" target="_blank">
